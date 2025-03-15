@@ -27,4 +27,7 @@
 - git clone https://github.com/Cataltug/HangmanGame.git
 - Open the index.html file in your browser.
 
+# Contributing
+- Feel free to fork this repository and submit pull requests. Contributions are always welcome!
+
 # If you like this project, consider giving it a ⭐ on GitHub! 😊
