@@ -24,7 +24,7 @@
 
 # 🛠 Setup & Running
 - Clone the repository:
-- git clone https://github.com/yourusername/hangman-game.git
+- git clone https://github.com/Cataltug/HangmanGame.git
 - Open the index.html file in your browser.
 
 # If you like this project, consider giving it a ⭐ on GitHub! 😊
